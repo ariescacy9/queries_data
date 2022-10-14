@@ -15,9 +15,11 @@
 ![App Screenshot](https://github.com/ariescacy9/queries_data/blob/master/img/Captura4.JPG?raw=true)
 
 -- muestra los 5 aeropuertos con menos vuelos
+
 ![App Screenshot](https://github.com/ariescacy9/queries_data/blob/master/img/Captura5.JPG?raw=true)
 
 -- muestra la cuidad con menos vuelos
+
 ![App Screenshot](https://github.com/ariescacy9/queries_data/blob/master/img/Captura6.JPG?raw=true)
 
 -- mostrar el promedio de valor del ticket por avion y monto acumulado
